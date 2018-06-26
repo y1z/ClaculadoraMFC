@@ -1,0 +1,4 @@
+﻿  CrearCalculadora.cpp
+c:\users\ignite\source\repos\crearcalculadora\crearcalculadora\crearcalculadora.cpp(389): warning C4018: '<': no coinciden signed/unsigned
+c:\users\ignite\source\repos\crearcalculadora\crearcalculadora\crearcalculadora.cpp(396): warning C4018: '<': no coinciden signed/unsigned
+  CrearCalculadora.vcxproj -> C:\Users\ignite\source\repos\CrearCalculadora\Debug\CrearCalculadora.exe
